@@ -1,0 +1,6 @@
+n1 = int(input("Dame un número "))
+n2= int(input("Dame otro número "))
+n3= int(input("Dame el último número "))
+print("La suma del primer y segundo número, multiplicado por el tercero es ", (n1+n2)*n3)
+print("La multiplicación del primer y tercer número es ", n1+n3)
+print("La multiplicación del segundo y tercer número es ", n1+n3)
