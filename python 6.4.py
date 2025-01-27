@@ -1,4 +1,4 @@
-#6.5 Pide al usuario su nombre y un número. Después de esto, muestra por
+#6.4 Pide al usuario su nombre y un número. Después de esto, muestra por
 #pantalla, su nombre el número de veces que haya elegido. Comprueba y evita
 #que se produzcan errores.
 #Realiza un programa que lea dos números por teclado y permita elegir entre 4
